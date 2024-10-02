@@ -1,6 +1,6 @@
 /*
 
-Program : Quadratic Equation Solver
+Program : Binary 1's counter
 Author : Anand Sajeev A
 Date : [02/10/2024]
 Revision : Nil
