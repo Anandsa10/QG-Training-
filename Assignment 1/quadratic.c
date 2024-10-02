@@ -1,5 +1,9 @@
 
 /*
+Program : Quadratic Equation Solver
+Author : Anand Sajeev A
+Date : [02/10/2024]
+Revision : Nil
 Objective : To evaluate a quadratic equation and find roots.
 */
 
